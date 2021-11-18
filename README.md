@@ -6,8 +6,7 @@ This repository contains an overview of the Scikit-Learn, machine learning packa
 
 You can view the notebook at the following image:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]
-(https://nbviewer.org/github/nmanley73/Machine_Learning_assessment/blob/main/scikit-learn.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/nmanley73/Machine_Learning_assessment/blob/main/scikit-learn.ipynb)
 
 ## How to run the notebook
 
